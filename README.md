@@ -19,3 +19,80 @@
 - [Tidal CLI: play tidal music from the command line](https://github.com/deanturpin/projects/issues/13)
 - [Algorithm visualisation tool: animated algorithms for fun and education](https://github.com/deanturpin/projects/issues/14)
 - [Meeting cost calculator (cli and web): that meeting cost how much?!](https://github.com/deanturpin/projects/issues/15)
+
+## Developer Tools & Productivity
+
+- Git commit message generator: Use AI to generate conventional commit messages from diff
+- Dependency vulnerability scanner: Monitor and alert on outdated/vulnerable packages across repos
+- Code review bot: Automated PR reviews with style and best practice checks
+- Terminal multiplexer with AI: tmux alternative with GPT-powered command suggestions
+
+## Data & Analytics
+
+- Personal finance tracker: Bank statement parser with spending insights
+- Weather pattern analyser: Local microclimate predictions using historical data
+- Social media sentiment tracker: Monitor brand/topic sentiment across platforms
+- Sports statistics API: Aggregate and analyse sports data from multiple sources
+
+## IoT & Hardware
+
+- Smart doorbell with face recognition: Raspberry Pi doorbell with OpenCV
+- Plant monitoring system: Soil moisture, light levels, automated watering
+- Energy usage monitor: Track home electricity usage per device
+- DIY weather station: Build and log environmental sensors
+
+## Gaming & Entertainment
+
+- Retro game emulator frontend: Unified launcher for multiple emulators
+- Twitch chat bot framework: Extensible bot for stream interactions
+- Board game AI: Chess/Go/Checkers engine with difficulty levels
+- Music recommendation engine: Based on audio features, not just tags
+
+## Automation & Bots
+
+- Email categoriser: Auto-sort and prioritise inbox using ML
+- Calendar optimiser: Suggest meeting times and reorganise schedules
+- Screenshot OCR tool: Extract text from images automatically
+- Markdown to presentation: Convert .md files to reveal.js slides
+
+## Security & Privacy
+
+- Password strength analyser: Real-time entropy calculation with breach database checking
+- DNS-over-HTTPS proxy: Local DoH server for network privacy
+- File encryption vault: Cross-platform encrypted file storage with cloud sync
+- Browser fingerprint detector: Show what tracking data your browser reveals
+
+## Communication & Collaboration
+
+- P2P video chat: WebRTC-based serverless video calling
+- Dead simple pastebin: Minimal text sharing with syntax highlighting
+- Team standup bot: Async daily standup collector for remote teams
+- Webhook debugger: Local server to inspect and replay webhook calls
+
+## Learning & Education
+
+- Flashcard app with spaced repetition: Anki alternative with simpler UX
+- Code typing practice: Like typing.io but for your own codebase
+- Math equation solver: Step-by-step solutions with LaTeX rendering
+- Language exchange matcher: Connect language learners for practice
+
+## Content & Media
+
+- Podcast transcript search: Index and search across podcast episodes
+- Image EXIF stripper: Batch remove metadata from photos
+- YouTube thumbnail A/B tester: Compare thumbnail performance
+- RSS feed aggregator: Modern reader with AI summarisation
+
+## System & Performance
+
+- Docker container monitor: Resource usage dashboard for containers
+- Log file analyser: Pattern detection and anomaly alerts
+- Network speed logger: Track internet performance over time
+- Disk space visualiser: Interactive treemap of storage usage
+
+## Fun & Experimental
+
+- ASCII webcam: Live video to ASCII art converter
+- Sound visualiser: Real-time audio frequency spectrum display
+- Emoji translator: Convert text to emoji-only messages
+- Random API mashup: Combine two random APIs for unexpected results
