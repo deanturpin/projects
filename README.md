@@ -12,7 +12,7 @@
 ## Audio
 
 - [KEYQ: FFT library & Logic Pro plugin with key-aware musical EQ](https://github.com/deanturpin/keyq)
-- [roomtone: generative music from room acoustics](https://github.com/deanturpin/roomtone) - [issue #2](https://github.com/deanturpin/projects/issues/2)
+- [roomtone: generative music from room acoustics](https://github.com/deanturpin/roomtone)
 
 ## ASCII / CLI
 
