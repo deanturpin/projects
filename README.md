@@ -11,7 +11,8 @@
 
 ## Audio
 
-- [Generative music maker: manipulate ambient noise](https://github.com/deanturpin/projects/issues/11)
+- [KEYQ: FFT library & Logic Pro plugin with key-aware musical EQ](https://github.com/deanturpin/keyq)
+- [roomtone: generative music from room acoustics](https://github.com/deanturpin/roomtone) - [issue #2](https://github.com/deanturpin/projects/issues/2)
 
 ## ASCII / CLI
 
@@ -22,44 +23,31 @@
 
 ## Developer Tools & Productivity
 
-- Git commit message generator: Use AI to generate conventional commit messages from diff
 - Dependency vulnerability scanner: Monitor and alert on outdated/vulnerable packages across repos
 - Code review bot: Automated PR reviews with style and best practice checks
 - Terminal multiplexer with AI: tmux alternative with GPT-powered command suggestions
 
 ## Data & Analytics
 
-- Personal finance tracker: Bank statement parser with spending insights
 - Weather pattern analyser: Local microclimate predictions using historical data
 - Social media sentiment tracker: Monitor brand/topic sentiment across platforms
-- Sports statistics API: Aggregate and analyse sports data from multiple sources
 
 ## IoT & Hardware
 
-- Smart doorbell with face recognition: Raspberry Pi doorbell with OpenCV
 - Plant monitoring system: Soil moisture, light levels, automated watering
 - Energy usage monitor: Track home electricity usage per device
-- DIY weather station: Build and log environmental sensors
 
-## Gaming & Entertainment
+## Entertainment
 
-- Retro game emulator frontend: Unified launcher for multiple emulators
-- Twitch chat bot framework: Extensible bot for stream interactions
-- Board game AI: Chess/Go/Checkers engine with difficulty levels
 - Music recommendation engine: Based on audio features, not just tags
 
 ## Automation & Bots
 
-- Email categoriser: Auto-sort and prioritise inbox using ML
-- Calendar optimiser: Suggest meeting times and reorganise schedules
-- Screenshot OCR tool: Extract text from images automatically
 - Markdown to presentation: Convert .md files to reveal.js slides
 
 ## Security & Privacy
 
-- Password strength analyser: Real-time entropy calculation with breach database checking
 - DNS-over-HTTPS proxy: Local DoH server for network privacy
-- File encryption vault: Cross-platform encrypted file storage with cloud sync
 - Browser fingerprint detector: Show what tracking data your browser reveals
 
 ## Communication & Collaboration
