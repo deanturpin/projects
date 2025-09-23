@@ -1,3 +1,7 @@
+# Projects
+
+Project ideas and side hustles, explored with Claude Code before committing to full development.
+
 ## New candidates
 
 - [GoAT: Go trading strategy backtester](https://github.com/deanturpin/projects/issues/3)
