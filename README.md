@@ -12,6 +12,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - [Bill splitter: using a token to save state, or even in the URL](https://github.com/deanturpin/projects/issues/8)
 - [Car swap: swap nearly new cars with other people to avoid the depreciation hit](https://github.com/deanturpin/projects/issues/9)
 - [Multi-platform song search: Spotify, Tidal, Beatport etc](https://github.com/deanturpin/projects/issues/10)
+- Local LLM - roll my own like [this](https://github.com/QwenLM/Qwen3)
 
 ## Audio
 
@@ -30,6 +31,8 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - Dependency vulnerability scanner: Monitor and alert on outdated/vulnerable packages across repos
 - Code review bot: Automated PR reviews with style and best practice checks
 - Terminal multiplexer with AI: tmux alternative with GPT-powered command suggestions
+- Build Signal from scratch
+- pjsip client for pipeline testing
 
 ## Data & Analytics
 
