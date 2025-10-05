@@ -4,7 +4,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 
 ## New candidates
 
-- [airport: Active project](https://github.com/deanturpin/airport)
+- [airport: Flight tracking and analysis](https://github.com/deanturpin/airport)
 - [novono: Voice note transcription PWA (offline, private)](https://github.com/deanturpin/novono)
 - [GoAT: Go trading strategy backtester](https://github.com/deanturpin/projects/issues/3)
 - [Universal translator: Go live translation](https://github.com/deanturpin/projects/issues/4)
