@@ -4,29 +4,29 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 
 ## New candidates
 
-- [airport: Flight tracking and analysis](https://github.com/deanturpin/airport)
-- [novono: Voice note transcription PWA (offline, private)](https://github.com/deanturpin/novono)
-- [GoAT: Go trading strategy backtester](https://github.com/deanturpin/projects/issues/3)
-- [Universal translator: Go live translation](https://github.com/deanturpin/projects/issues/4)
-- [EV charger alerts: notify when local charger becomes available](https://github.com/deanturpin/projects/issues/5)
+- [airport](https://github.com/deanturpin/airport): Flight tracking and analysis
+- [novono](https://github.com/deanturpin/novono): Voice note transcription PWA (offline, private)
+- [GoAT](https://github.com/deanturpin/projects/issues/3): Go trading strategy backtester
+- [Universal translator](https://github.com/deanturpin/projects/issues/4): Go live translation
+- [EV charger alerts](https://github.com/deanturpin/projects/issues/5): notify when local charger becomes available
 - [hacking Roomba](https://github.com/deanturpin/projects/issues/6): https://hackingroomba.com/
-- [JSON over SIP: can we use Asterisk as a general purpose message hub?](https://github.com/deanturpin/projects/issues/7)
-- [Bill splitter: using a token to save state, or even in the URL](https://github.com/deanturpin/projects/issues/8)
-- [Car swap: swap nearly new cars with other people to avoid the depreciation hit](https://github.com/deanturpin/projects/issues/9)
-- [Multi-platform song search: Spotify, Tidal, Beatport etc](https://github.com/deanturpin/projects/issues/10)
+- [JSON over SIP](https://github.com/deanturpin/projects/issues/7): can we use Asterisk as a general purpose message hub?
+- [Bill splitter](https://github.com/deanturpin/projects/issues/8): using a token to save state, or even in the URL
+- [Car swap](https://github.com/deanturpin/projects/issues/9): swap nearly new cars with other people to avoid the depreciation hit
+- [Multi-platform song search](https://github.com/deanturpin/projects/issues/10): Spotify, Tidal, Beatport etc
 - Local LLM - roll my own like [this](https://github.com/QwenLM/Qwen3)
 
 ## Audio
 
-- [KEYQ: FFT library & Logic Pro plugin with key-aware musical EQ](https://github.com/deanturpin/keyq)
-- [roomtone: generative music from room acoustics](https://github.com/deanturpin/roomtone)
+- [KEYQ](https://github.com/deanturpin/keyq): FFT library and Logic Pro plugin with key-aware musical EQ
+- [roomtone](https://github.com/deanturpin/roomtone): generative music from room acoustics
 
 ## ASCII / CLI
 
-- [Mandelbrot stress tester: brot](https://github.com/deanturpin/projects/issues/12)
-- [Tidal CLI: play tidal music from the command line](https://github.com/deanturpin/projects/issues/13)
-- [Algorithm visualisation tool: animated algorithms for fun and education](https://github.com/deanturpin/projects/issues/14)
-- [Meeting cost calculator (cli and web): that meeting cost how much?!](https://github.com/deanturpin/projects/issues/15)
+- [Mandelbrot stress tester](https://github.com/deanturpin/projects/issues/12): brot
+- [Tidal CLI](https://github.com/deanturpin/projects/issues/13): play tidal music from the command line
+- [Algorithm visualisation tool](https://github.com/deanturpin/projects/issues/14): animated algorithms for fun and education
+- [Meeting cost calculator](https://github.com/deanturpin/projects/issues/15): that meeting cost how much?! (cli and web)
 
 ## Developer Tools & Productivity
 
