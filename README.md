@@ -6,6 +6,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 
 - [airport](https://github.com/deanturpin/airport): Flight tracking and analysis
 - [novono](https://github.com/deanturpin/novono): Voice note transcription PWA (offline, private)
+- [Instagram speed player](https://github.com/deanturpin/projects/issues/21): bypass video time limits with speed manipulation
 - [GoAT](https://github.com/deanturpin/projects/issues/3): Go trading strategy backtester
 - [Universal translator](https://github.com/deanturpin/projects/issues/4): Go live translation
 - [EV charger alerts](https://github.com/deanturpin/projects/issues/5): notify when local charger becomes available
@@ -33,7 +34,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - Dependency vulnerability scanner: Monitor and alert on outdated/vulnerable packages across repos
 - Code review bot: Automated PR reviews with style and best practice checks
 - Terminal multiplexer with AI: tmux alternative with GPT-powered command suggestions
-- Build Signal from scratch
+- Build Signal from scratch, also see https://github.com/ImranR98/Obtainium
 - pjsip client for pipeline testing
 
 ## Data & Analytics
