@@ -16,6 +16,8 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - [Car swap](https://github.com/deanturpin/projects/issues/9): swap nearly new cars with other people to avoid the depreciation hit
 - [Multi-platform song search](https://github.com/deanturpin/projects/issues/10): Spotify, Tidal, Beatport etc
 - Local LLM - roll my own like [this](https://github.com/QwenLM/Qwen3)
+- Bluetooth walkie talkie app for friends on planes (or WiFi with laptop)
+- VPN switcher: keep moving automatically
 
 ## Audio
 
