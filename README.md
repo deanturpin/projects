@@ -18,6 +18,9 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - Local LLM - roll my own like [this](https://github.com/QwenLM/Qwen3)
 - Bluetooth walkie talkie app for friends on planes (or WiFi with laptop)
 - VPN switcher: keep moving automatically
+- do family diagram in Claude
+- Update C++ dev guide to serve random pages for revision
+- Dictaphone transcriber app: Kim
 
 ## Audio
 
