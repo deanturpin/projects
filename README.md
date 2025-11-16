@@ -21,6 +21,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - do family diagram in Claude
 - Update C++ dev guide to serve random pages for revision
 - Dictaphone transcriber app: Kim
+- [Command line compiler explorer](https://gitlab.com/germs-dev/explore)
 
 ## Audio
 
