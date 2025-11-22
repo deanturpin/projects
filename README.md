@@ -27,7 +27,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 
 - [KEYQ](https://github.com/deanturpin/keyq): FFT library and Logic Pro plugin with key-aware musical EQ
 - [roomtone](https://github.com/deanturpin/roomtone): generative music from room acoustics
-- Parallel stem splitter
+- [stems](https://github.com/deanturpin/stems): high-quality audio stem separation with Demucs v4 and ONNX Runtime (C++)
 
 ## ASCII / CLI
 
