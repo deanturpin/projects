@@ -22,7 +22,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - Update C++ dev guide to serve random pages for revision
 - Dictaphone transcriber app: Kim
 - [Command line compiler explorer](https://gitlab.com/germs-dev/explore)
-- Online meeting service
+- [Video conferencing platform](https://github.com/deanturpin/projects/issues/26): web-based with WebRTC, learn real-time communication
 
 ## Audio
 
