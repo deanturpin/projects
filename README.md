@@ -23,12 +23,15 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - Dictaphone transcriber app: Kim
 - [Command line compiler explorer](https://gitlab.com/germs-dev/explore)
 - [Video conferencing platform](https://github.com/deanturpin/projects/issues/26): web-based with WebRTC, learn real-time communication
+- Sonos cast test app
+- Streaming music CDJ: control pitch/tempo of streamed music (cache a bit first)
 
 ## Audio
 
 - [KEYQ](https://github.com/deanturpin/keyq): FFT library and Logic Pro plugin with key-aware musical EQ
 - [roomtone](https://github.com/deanturpin/roomtone): generative music from room acoustics
 - [stems](https://github.com/deanturpin/stems): high-quality audio stem separation with Demucs v4 and ONNX Runtime (C++)
+- [Audio calibration system](https://github.com/deanturpin/projects/issues/27): system-wide headphone and hearing compensation (C++ native + web UI)
 
 ## ASCII / CLI
 
