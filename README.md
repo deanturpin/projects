@@ -32,6 +32,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 - [roomtone](https://github.com/deanturpin/roomtone): generative music from room acoustics
 - [stems](https://github.com/deanturpin/stems): high-quality audio stem separation with Demucs v4 and ONNX Runtime (C++)
 - [Audio calibration system](https://github.com/deanturpin/projects/issues/27): system-wide headphone and hearing compensation (C++ native + web UI)
+- [Hush](hush): offline-first sleep and meditation PWA with ad-free ambient soundscapes from BBC Sound Effects
 
 ## ASCII / CLI
 
@@ -42,6 +43,7 @@ Project ideas and side hustles, explored with Claude Code before committing to f
 
 ## Developer Tools & Productivity
 
+- [Jengineer](jengineer): web-based resource management tool - Jenga meets Gantt chart for visual sprint planning
 - Dependency vulnerability scanner: Monitor and alert on outdated/vulnerable packages across repos
 - Code review bot: Automated PR reviews with style and best practice checks
 - Terminal multiplexer with AI: tmux alternative with GPT-powered command suggestions
